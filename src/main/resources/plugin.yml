@@ -1,0 +1,7 @@
+name: Simple BelowName
+version: '${project.version}'
+main: github.nighusio.belowname.SimpleBelowName
+api-version: 1.19
+authors: [ night ]
+description: Simple belowname plugin
+website: github.com/Nightusio
